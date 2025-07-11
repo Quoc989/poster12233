@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Xem PDF từ GitHub</title>
+</head>
+<body>
+  <h1>File PDF từ GitHub</h1>
+  <iframe src="https://github.com/Quoc989/poster12233/raw/main/QRCODE.pdf" width="100%" height="600px">
+    Trình duyệt của bạn không hỗ trợ iframe.
+  </iframe>
+</body>
+</html>
